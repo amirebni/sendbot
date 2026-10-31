@@ -1,0 +1,17 @@
+{
+  "channel": "@your_channel",
+  "tag": "@your_channel",
+  "tag_position": "end",
+  "header": "",
+  "footer": "",
+  "keep_original_text": true,
+  "remove_links": true,
+  "remove_mentions": true,
+  "remove_hashtags": false,
+  "replacements": {
+    "@old_channel": "",
+    "کلمه قدیمی": "کلمه جدید"
+  },
+  "allowed_users": [123456789],
+  "reply_confirm": true
+}
